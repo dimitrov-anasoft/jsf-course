@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.technology.course.jsf</groupId>
+  <artifactId>jsf-jee-project-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141006200201</lastUpdated>
+  </versioning>
+</metadata>
