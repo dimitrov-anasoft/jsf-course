@@ -10,7 +10,7 @@
 		</archetype>
 		<archetype>
 			<groupId>de.technology.course.jsf</groupId>
-			<artifactId>jsf-boostrap-project-archetype</artifactId>
+			<artifactId>jsf-bootstrap-project-archetype</artifactId>
 			<version>1.0-SNAPSHOT</version>
 			<repository/>
 			<description>Archetype for a Boostrap CSS enabled project skeleton</description>
